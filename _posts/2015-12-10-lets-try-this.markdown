@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's try this out!"
 date:   2015-12-10 14:06:10 +0000
-categories: erlang welcome
+categories: erlang elxir bio welcome
 ---
 Hello.
 ====== 
