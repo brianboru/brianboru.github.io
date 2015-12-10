@@ -20,6 +20,6 @@ with Elixir looking like a good fit for the another. I'll write an article with 
 
 In the meantime, sit back, relax and watch out for my first real article which will look at records in Erlang.
 
-BTW: all of this is hosted in my [github repo](http://github.com/brianboru/brianboru.github.io) so if you see something wrong and have a better way of doing to, I'll 
-happily accept any pull requests! :-)
+BTW: all of this is hosted in my [github repo](http://github.com/brianboru/brianboru.github.io) so if you see 
+something wrong and have a better way of doing it, I'll happily accept any pull requests! :-)
  
